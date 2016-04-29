@@ -1,9 +1,40 @@
 body {
-  background-color: white;
+  background-color: #EEEEEE;
 }
 header h1 {
-  height: 50px;
+  height: 80px;
   width: 100%;
-  background-color: grey;
+  background-color: #444444;
   text-align: center;
+  position: relative;
+  margin: 0;
+
+}
+.div {
+
+}
+.left {
+  width: 10%;
+  height: 800px;
+  float: left;
+  background-color: #DDDDDD;
+  margin: 0;
+  position: relative;
+}
+.right {
+  width: 10%;
+  height: 800px;
+  float: right;
+  background-color: #DDDDDD;
+  margin: 0;
+  position: relative;
+}
+footer {
+  height: 80px;
+  width: 100%;
+  background-color: #333333;
+  text-align: center;
+  margin: auto;
+  bottom: 0;
+
 }
