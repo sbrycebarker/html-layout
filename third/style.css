@@ -1,1 +1,36 @@
+html, body {
+  margin: 0;
+}
 
+.small {
+  background-color: #448aff;
+  height: 100px;
+  width: 100px;
+  float: left;
+  margin-left: 50px;
+  margin-top: 1%;
+}
+.top {
+  background-color: #e0e0e0;
+  height: 15%;
+}
+.text {
+  background-color: white;
+  height: 25%;
+}
+.middle {
+  background-color: #448aff;
+  height: 15%;
+}
+.third {
+  background-color: #00ddcc;
+  height: 15%;
+}
+.secondbottom {
+  background-color: #aed581;
+  height: 15%;
+}
+.bottom {
+  background-color: yellow;
+  height: 15%;
+}
